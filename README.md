@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color: #60d69b; color: white; padding: 10px;">Kenny's profile</h1>
+<h1 align="center" style="background-color: #60d69b; color: white; padding: 10px;">My Profile</h1>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennywang112&title=MultiLanguage,Commits,Repositories,Commits,Experience&theme=onestar" alt="kennywang112" /></a></p>
@@ -18,7 +18,6 @@ In my repository, you might find several blockchain-related programs. This is be
 <a href="https://kennywang112.github.io/Profile/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/internetexplorer.svg" alt="Website" height="30" width="40" /></a>
 </h1>
-<h3 align="left" style="color:#60d69b;">Contact me: kennywang2003@gmail.com</h3>
 
 <hr>
 
