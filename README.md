@@ -1,12 +1,14 @@
-<h1 align="center" style="background-color: #60d69b; color: white; padding: 10px;">My Profile</h1>
-
+<div style="text-align: center; margin: 20px;">
+    <a href="./name.png">
+        <img src="./name.png" alt="Image" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px;">
+    </a>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennywang112&title=MultiLanguage,Commits,Repositories,Commits,Experience&theme=onestar" alt="kennywang112" /></a></p>
 
 
 <h3 align="center">
-I am a senior student at Soochow University in Taiwan. I am grateful that my professor is willing to support my interest in Topological Data Analysis, allowing me to self-study and collaborate on a paper currently under review. I hope it will be accepted soon. Additionally, I regularly share articles on Medium to help others get familiar with this analytical method while also honing my own skills. I aim to pursue a graduate program focused on spatial analysis, so I will continue to research spatiotemporal analysis and Geographic Information Systems (GIS).</p>
-In my repository, you might find several blockchain-related programs. This is because I have participated in a relevant lab and have worked with many contracts. I find it to be a very interesting application, and you can find more details on my personal website!
+I am a senior student at Soochow University in Taiwan, researching Topological Data Analysis and working on traffic-related projects that are currently under review. Additionally, I regularly share articles on Medium to help others become familiar with this analytical method while refining my own skills. At the same time, I am maintaining an R package related to TDA, which can be found in my repository. I aim to pursue a graduate program focused on spatial analysis, continuing my research in spatio-temporal analysis and Geographic Information Systems (GIS). You can visit my personal website for more details.
 </h3>
 
 
@@ -20,10 +22,8 @@ In my repository, you might find several blockchain-related programs. This is be
 </h1>
 
 <hr>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennywang112" alt="kennywang112" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennywang112&show_icons=true&locale=en&layout=compact" alt="kennywang112" /></p>
-
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennywang112" alt="kennywang112" /> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennywang112&title=MultiLanguage,Commits,Repositories,Commits,Experience&theme=onestar" alt="kennywang112" /></a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennywang112&show_icons=true&locale=en&layout=compact" alt="kennywang112" /></p>
 <h3 align="left" style="color:#60d69b;">My skills:</p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
