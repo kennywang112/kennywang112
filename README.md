@@ -10,14 +10,15 @@ I am a senior student at Soochow University in Taiwan, researching Topological D
 
 **MapperAlgo** package on CRAN <a href="https://cran.r-project.org/web/packages/MapperAlgo/index.html" target="_blank" rel="noreferrer"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/MapperAlgo" alt="mysql" width="100" height="20"/> </a> 
 
-<h3 align="left" style="color:#60d69b;">More works:</p>
-<a href="https://medium.com/@kennywang2003" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/kennyssss" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+**Webpage**:
 <a href="https://kennywang112.github.io/Profile/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/internetexplorer.svg" alt="Website" height="30" width="40" /></a>
-</h1>
+**Medium**:
+<a href="https://medium.com/@kennywang2003" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
+**Kaggle**:
+<a href="https://www.kaggle.com/kennyssss" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 
 <hr>
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennywang112" alt="kennywang112" /> -->
