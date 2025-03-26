@@ -8,8 +8,6 @@
 I am a senior student at Soochow University in Taiwan, researching Topological Data Analysis and working on traffic-related projects that are currently under review. Additionally, I regularly share articles on Medium to help others become familiar with this analytical method while refining my own skills. At the same time, I am maintaining an R package related to TDA, which can be found in my repository. I aim to pursue a graduate program focused on data science, continuing my research in TDA. You can visit my personal website for more details.
 </h3>
 
-**MapperAlgo** package on CRAN <a href="https://cran.r-project.org/web/packages/MapperAlgo/index.html" target="_blank" rel="noreferrer"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/MapperAlgo" alt="mysql" width="100" height="20"/> </a> 
-
 **Webpage**:
 <a href="https://kennywang112.github.io/Profile/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/internetexplorer.svg" alt="Website" height="30" width="40" /></a>
