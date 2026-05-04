@@ -3,13 +3,3 @@
         <img src="./name.png" alt="Image" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px;">
     </a>
 </div>
-
-**Webpage**:
-<a href="https://kennywang112.github.io/Profile/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/internetexplorer.svg" alt="Website" height="30" width="40" /></a>
-**Medium**:
-<a href="https://medium.com/@kennywang2003" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
-**Kaggle**:
-<a href="https://www.kaggle.com/kennyssss" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
